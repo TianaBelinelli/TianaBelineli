@@ -1,5 +1,5 @@
 # TianaBelineli
-Olá meu nome é Tiana sou arquiteta Urbanista de formação em migração de carreira para área do desenvolvimento de software, atualmente em formação como Desenvolvedora Flutter na Cubos Academy.
+Olá meu nome é Tiana sou Arquiteta Urbanista de formação em migração de carreira para área do desenvolvimento de software, atualmente andamento a segunda graduação em Análise e Desenvolvimento de Sistemas e recentemente conclui o curso de Desenvolvimento de Software com Flutter na Cubos Academy.
 
 Esse perfil foi criado para armazenar não só os execícios do curso mais também outros trabalhos que eu venha a desenvolver nesta área.
 
